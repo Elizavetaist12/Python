@@ -7,3 +7,6 @@ if b > 10:
     print("cool")
 else:
     print("bad")
+
+print(a)
+print("buy")
