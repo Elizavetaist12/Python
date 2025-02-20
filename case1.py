@@ -10,3 +10,5 @@ else:
 
 print(a)
 print("buy")
+
+print("ok")
